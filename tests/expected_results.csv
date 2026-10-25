@@ -1,0 +1,11 @@
+test_id,input_volume_L,elapsed_time_s,feed_rate_L_min,liquid_recovered_L,solids_retained_g,oil_grease_inlet_mg_L,oil_grease_outlet_mg_L,tss_inlet_mg_L,tss_outlet_mg_L,cleaning_time_min,status,notes
+T01,,,,,,,,,,,,Not tested,
+T02,,,,,,,,,,,,Not tested,
+T03,,,,,,,,,,,,Not tested,
+T04,,,,,,,,,,,,Not tested,
+T05,,,,,,,,,,,,Not tested,
+T06,,,,,,,,,,,,Not tested,
+T07,,,,,,,,,,,,Not tested,
+T08,,,,,,,,,,,,Not tested,
+T09,,,,,,,,,,,,Not tested,
+T10,,,,,,,,,,,,Not tested,
